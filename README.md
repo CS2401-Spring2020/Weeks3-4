@@ -40,8 +40,7 @@ You have 3 main tasks to complete in this lab.
     * evolution:
         * Takes an integer n, which represents the number of evolution steps we need to conduct.
         * Transforms the board into the board after n steps of evolution (i.e., n successive calls to oneStep).
-
-**Note:** you can use more methods (as helper methods for the above methods). However, you need to stick at least to the ones above.
+    * **Note:** you can use more methods (as helper methods for the above methods). However, you need to stick at least to the ones above.
 
 1. You are then going to design a new type `TorusGameOfLife` (defined in a java file called `TorusGameOfLife.java`), which inherits from the type `GameOfLife` (keyword: extends). This new type is described as follows: 
 
@@ -78,6 +77,7 @@ Lateness rule: -10 pts for 1 day of lateness / - 20 pts for 2 days of lateness /
 
 
 # Grading: 
+| === | === |
 | 40 pts	| GameOfLife.java |
 | 30 pts	| TorusGameOfLife.java| 
 | 30 pts	| TorusGOLTester.java| 
