@@ -23,8 +23,8 @@ You have 3 main tasks to complete in this lab.
 1. You are first going to design a new type `GameOfLife` (defined in a java file called `GameOfLife.java`). This new type is described as follows: 
     * Attributes:
         * Size: int
-        * Board: int[][]  this is a square board, same number of rows and columns
-        * Previous: int[][]  this 2D array will store a copy of the game of life board.
+        * Board: int[][] --- this is a square board, same number of rows and columns
+        * Previous: int[][] --- this 2D array will store a copy of the game of life board.
     * Constructors:
         * Default constructor
         * Constructor that takes a size as input (this will be the number of rows as well as the number of columns of your board and previous)
