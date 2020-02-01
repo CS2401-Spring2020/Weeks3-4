@@ -56,7 +56,7 @@ In this file, you have to test the following class methods of the `GameOfLife` t
     * oneStep(int, int)
     * oneStep()
     * evolution(int)
-In particular, you should test the behavior of your two versions of the game of life on at least the following boards: 
+In particular, you should test the behavior of your two versions of the game of life on at least the following boards, but your TAs may test other starting boards: 
 
 ![example1](/example1.png)
 ![example2](/example2.png)
