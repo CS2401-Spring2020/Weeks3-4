@@ -58,6 +58,7 @@ In this file, you have to test the following class methods of the `GameOfLife` t
     * oneStep()
     * evolution(int)
 In particular, you should test the behavior of your two versions of the game of life on at least the following boards: 
+
 ![example1](/example1.png)
 ![example2](/example2.png)
 ![example3](/example3.png)
@@ -77,6 +78,6 @@ Lateness rule: -10 pts for 1 day of lateness / - 20 pts for 2 days of lateness /
 
 
 # Grading: 
-40 pts	GameOfLife.java
-30 pts	TorusGameOfLife.java
-30 pts	TorusGOLTester.java
+| 40 pts	| GameOfLife.java |
+| 30 pts	| TorusGameOfLife.java| 
+| 30 pts	| TorusGOLTester.java| 
