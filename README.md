@@ -1,4 +1,4 @@
-# Weeks3-4
+# Lab for Weeks 3-4
 With this lab assignment, you are going to get a chance to practice some more on 2D arrays and refresh your memory on object-oriented programming, with the definition and manipulation of new types. We hope this lab helps you feel more comfortable manipulating again some concepts from CS1 and embarking on CS2 material. Let’s get started!
 
 ## What is the goal of this lab?
