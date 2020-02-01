@@ -73,6 +73,7 @@ Additionally, your java files are expected to be neat and clear (indentation and
 
 ## By when should you submit your work?
 Due date: **Friday February 14 at 11:59pm**
+
 Lateness rule: -10 pts for 1 day of lateness / - 20 pts for 2 days of lateness / 0 after that, but you still have to turn in your work 
 
 
