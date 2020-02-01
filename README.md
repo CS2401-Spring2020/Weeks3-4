@@ -77,8 +77,7 @@ Lateness rule: -10 pts for 1 day of lateness / - 20 pts for 2 days of lateness /
 
 
 # Grading: 
-| Points | Item |
-| === | === |
+| --- | --- |
 | 40 pts	| GameOfLife.java |
 | 30 pts	| TorusGameOfLife.java| 
 | 30 pts	| TorusGOLTester.java| 
