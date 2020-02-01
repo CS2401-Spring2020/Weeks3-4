@@ -30,7 +30,7 @@ You have 3 main tasks to complete in this lab.
         * Constructor that takes a size as input (this will be the number of rows as well as the number of columns of your board and previous)
         * Constructor that take a 2D array as an input (its size will be the size of the board and previous; its content is to be copied into previous)
     * Getter:
-        * getBoard  returns the current board
+        * getBoard --- returns the current board
     * oneStep: 
         * Takes no parameter and is a void method
         * It consists in transforming the current board into its next shape (board at next time stamp).
