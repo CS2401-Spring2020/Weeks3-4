@@ -11,7 +11,7 @@ We expect that, by the time you complete this lab you will:
 In this lab, you are going to implement Conway’s Game of Life, with a twist. Let us explain.
 
 In case you are not familiar with Conway’s Game of Life, please visit the following page for full details of all rules: [Wikipedia link](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). The traditional game of life is “played” on a flat board (flat 2D array). In this lab, we will implement the game of life to be played on a torus-like board; see picture below:
-![torus](/torus.png)
+![torus](/images/torus.png)
 
 Your mission is that, given any torus-shaped game-of-life, you implementation should allow any user to initialize the torus with any population and make it evolve over any given number of time steps. 
 
@@ -58,10 +58,10 @@ In this file, you have to test the following class methods of the `GameOfLife` t
     * `evolution(int)`
 In particular, you should test the behavior of your two versions of the game of life on at least the following boards, but your TAs may test other starting boards: 
 
-![example1](/example1.png)
-![example2](/example2.png)
-![example3](/example3.png)
-![example4](/example4.png)
+![example1](/images/example1.png)
+![example2](/images/example2.png)
+![example3](/images/example3.png)
+![example4](/images/example4.png)
 
 ## What should you turn in?
 You should submit your 3 java files: `GameOfLife.java`, `TorusGameOfLife.java`, and `GOLTester.java`.
